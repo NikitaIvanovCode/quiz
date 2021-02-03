@@ -1,0 +1,14 @@
+.profile-head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.profile-head{
+    margin-bottom: 1rem;
+}
+
+.profile-route-block{
+    text-align: center; 
+    margin-bottom: .5rem;
+}

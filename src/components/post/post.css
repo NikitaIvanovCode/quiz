@@ -1,0 +1,21 @@
+.post{
+    border: 1px solid #c1c1c1;
+    border-radius: .5rem;
+    padding: .5rem;
+    margin-bottom: 1rem;
+}
+
+.post__head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.post__text{
+    margin-top: 1rem;
+    margin-bottom: .5rem;
+}
+
+.post__likes{
+    display: flex;
+}

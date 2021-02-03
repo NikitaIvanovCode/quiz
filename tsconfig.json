@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "lib": ["dom", "dom.iterable"],
+      "allowJs": true,
+      "allowSyntheticDefaultImports": true,
+      "skipLibCheck": true,
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "noEmit": true,
+      "jsx": "react",
+      "target": "ES6",
+    },
+    "include": ["src"]
+}

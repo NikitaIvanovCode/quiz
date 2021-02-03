@@ -1,0 +1,15 @@
+.likes-list-users{
+    display: flex;
+}
+
+.likes-list-users__item{
+    display: flex;
+}
+
+.likes-list-users__item::after{
+    content: ",";
+}
+
+.likes-list-users__item:last-child::after{
+    content: "";
+}
